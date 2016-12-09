@@ -1,0 +1,3 @@
+[submodule "start/calendar.vim"]
+	path = start/calendar.vim
+	url = https://github.com/itchyny/calendar.vim.git
